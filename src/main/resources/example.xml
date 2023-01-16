@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ValCurs>
+    <Valute><name>dollar</name></Valute>
+    <Valute><name>euro</name></Valute>
+    <Valute><name>ruble</name></Valute>
+</ValCurs>
